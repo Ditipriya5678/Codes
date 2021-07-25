@@ -4,6 +4,17 @@
 2) Blitz if 3≤a+b≤10
 3) Rapid if 11≤a+b≤60
 4) Classical if 60<a+b
+
+Input Format
+First line will contain T, number of testcases. Then the testcases follow.
+Each testcase contains a single line of input, two integers a,b
+
+Sample Input
+4
+1 0
+4 1
+100 0
+20 5
 */
 
 #include <stdio.h>
